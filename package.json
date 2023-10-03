@@ -1,5 +1,5 @@
 {
-  "homepage": "http://meshutamy.github.io/first-website",  "name": "first-website",
+  "homepage": "https://meshutamy.github.io/first-website", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
