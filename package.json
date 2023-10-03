@@ -1,6 +1,5 @@
 {
-  "homepage": "http://meshutamy.github.io/first-website",
-  "name": "my-react-app",
+  "homepage": "http://meshutamy.github.io/first-website",  "name": "first-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
